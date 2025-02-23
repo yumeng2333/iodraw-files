@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-2" value="充放电管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LBHFtbLsPjsqxjLfZkVa-4" target="LBHFtbLsPjsqxjLfZkVa-1">
           <mxGeometry relative="1" as="geometry" />
@@ -26,22 +26,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-11" value="Type C接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LBHFtbLsPjsqxjLfZkVa-13" target="LBHFtbLsPjsqxjLfZkVa-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-13" value="MQTT服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LBHFtbLsPjsqxjLfZkVa-13" value="云服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-15" value="Web端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LBHFtbLsPjsqxjLfZkVa-17" target="LBHFtbLsPjsqxjLfZkVa-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-17" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LBHFtbLsPjsqxjLfZkVa-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
