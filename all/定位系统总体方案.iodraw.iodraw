@@ -79,7 +79,10 @@
           <mxGeometry x="251" y="330" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIbKWlRppbG2iatWykEL-11" value="&lt;div&gt;MQTT协议&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="269" y="219" width="60" height="30" as="geometry" />
+          <mxGeometry x="97" y="176" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIbKWlRppbG2iatWykEL-12" value="HTTPS协议" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="341" y="300" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
