@@ -4,8 +4,26 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xVvjhx_qVd9ONYzsfBeH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xVvjhx_qVd9ONYzsfBeH-1" target="xVvjhx_qVd9ONYzsfBeH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xVvjhx_qVd9ONYzsfBeH-1" value="放置各元件模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xVvjhx_qVd9ONYzsfBeH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xVvjhx_qVd9ONYzsfBeH-2" target="xVvjhx_qVd9ONYzsfBeH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xVvjhx_qVd9ONYzsfBeH-2" value="调整模型参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xVvjhx_qVd9ONYzsfBeH-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xVvjhx_qVd9ONYzsfBeH-4" target="xVvjhx_qVd9ONYzsfBeH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xVvjhx_qVd9ONYzsfBeH-4" value="放置并连接参数测量电路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xVvjhx_qVd9ONYzsfBeH-7" value="放置并连接参数测量电路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
