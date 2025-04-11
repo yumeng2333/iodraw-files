@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="24.7.17">
   <diagram name="第 1 页" id="4bypAKJYOj_d-6LTsCGi">
-    <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="600" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,14 +22,14 @@
         <mxCell id="RoHSv7XtCPUt6Qki7RCD-3" value="验证用户验证码" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7o8pnJmWo5YBcGqvGKAV-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7o8pnJmWo5YBcGqvGKAV-1">
+        <mxCell id="7o8pnJmWo5YBcGqvGKAV-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7o8pnJmWo5YBcGqvGKAV-1" target="7o8pnJmWo5YBcGqvGKAV-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7o8pnJmWo5YBcGqvGKAV-11" value="验证成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7o8pnJmWo5YBcGqvGKAV-4">
           <mxGeometry x="-0.2667" y="-4" relative="1" as="geometry">
-            <mxPoint y="-16" as="offset" />
+            <mxPoint x="34" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7o8pnJmWo5YBcGqvGKAV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7o8pnJmWo5YBcGqvGKAV-1" target="RoHSv7XtCPUt6Qki7RCD-2">
@@ -43,14 +43,14 @@
         <mxCell id="7o8pnJmWo5YBcGqvGKAV-1" value="判断验证码是否正确" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="490" y="160" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="7o8pnJmWo5YBcGqvGKAV-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="7o8pnJmWo5YBcGqvGKAV-12" value="用户修改头像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="206" y="330" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7o8pnJmWo5YBcGqvGKAV-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="424" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="7o8pnJmWo5YBcGqvGKAV-13" value="用户路线预约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="330" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7o8pnJmWo5YBcGqvGKAV-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="7o8pnJmWo5YBcGqvGKAV-14" value="位置查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="476" y="330" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
