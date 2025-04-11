@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="24.7.17">
   <diagram name="第 1 页" id="rqDds7BtGwm62sSVohtm">
-    <mxGraphModel dx="724" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-13" value="MQTT服务器" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;imageWidth=20;" parent="1" vertex="1">
-          <mxGeometry x="120" y="250" width="96" height="48" as="geometry" />
+          <mxGeometry x="134" y="250" width="96" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-15" value="Web端" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;imageWidth=20;" parent="1" vertex="1">
           <mxGeometry x="305" y="250" width="96" height="48" as="geometry" />
@@ -62,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FIbKWlRppbG2iatWykEL-7" value="后台管理系统" style="rounded=0;whiteSpace=wrap;html=1;imageWidth=20;" parent="1" vertex="1">
-          <mxGeometry x="120" y="350" width="102" height="51" as="geometry" />
+          <mxGeometry x="128" y="350" width="102" height="51" as="geometry" />
         </mxCell>
         <mxCell id="FIbKWlRppbG2iatWykEL-9" value="SSH协议" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="230" y="341" width="80" height="30" as="geometry" />
@@ -153,8 +153,8 @@
         <mxCell id="PMAOJrLryyl2KWBEoHM8-54" value="三档按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="67" width="82" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="PMAOJrLryyl2KWBEoHM8-59" value="硬件流程图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="410" y="204" width="68" height="30" as="geometry" />
+        <mxCell id="PMAOJrLryyl2KWBEoHM8-59" value="软件流程图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="639" y="378" width="68" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
