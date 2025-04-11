@@ -16,10 +16,10 @@
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="1" source="LBHFtbLsPjsqxjLfZkVa-13" target="LBHFtbLsPjsqxjLfZkVa-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-13" value="MQTT服务器" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="LBHFtbLsPjsqxjLfZkVa-13" value="MQTT服务器" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;imageWidth=20;" parent="1" vertex="1">
           <mxGeometry x="158" y="268" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-15" value="Web端" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="LBHFtbLsPjsqxjLfZkVa-15" value="Web端" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;imageWidth=20;" parent="1" vertex="1">
           <mxGeometry x="350" y="268" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FIbKWlRppbG2iatWykEL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LBHFtbLsPjsqxjLfZkVa-17" edge="1" target="FIbKWlRppbG2iatWykEL-6">
@@ -31,13 +31,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-17" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="547" y="268" width="120" height="60" as="geometry" />
+        <mxCell id="LBHFtbLsPjsqxjLfZkVa-17" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;imageWidth=20;" parent="1" vertex="1">
+          <mxGeometry x="547" y="280" width="96" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FIbKWlRppbG2iatWykEL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LBHFtbLsPjsqxjLfZkVa-21" target="FIbKWlRppbG2iatWykEL-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-21" value="用户预约" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="LBHFtbLsPjsqxjLfZkVa-21" value="用户预约" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;imageWidth=20;" parent="1" vertex="1">
           <mxGeometry x="547" y="371" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-23" value="&lt;div&gt;MQTT协议&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
@@ -49,7 +49,7 @@
         <mxCell id="FIbKWlRppbG2iatWykEL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FIbKWlRppbG2iatWykEL-1" target="LBHFtbLsPjsqxjLfZkVa-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FIbKWlRppbG2iatWykEL-1" value="云服务器" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="FIbKWlRppbG2iatWykEL-1" value="云服务器" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;imageWidth=20;" parent="1" vertex="1">
           <mxGeometry x="350" y="371" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FIbKWlRppbG2iatWykEL-6" value="HTTPS协议" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
@@ -61,7 +61,7 @@
             <mxPoint x="349" y="401" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FIbKWlRppbG2iatWykEL-7" value="后台管理系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FIbKWlRppbG2iatWykEL-7" value="后台管理系统" style="rounded=0;whiteSpace=wrap;html=1;imageWidth=20;" parent="1" vertex="1">
           <mxGeometry x="158" y="371" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FIbKWlRppbG2iatWykEL-9" value="SSH协议" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
@@ -74,16 +74,16 @@
           <mxGeometry x="230" y="91.75" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-3" value="六轴IMU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="343" y="42.75" width="82" height="37.5" as="geometry" />
+          <mxGeometry x="230" y="160" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-4" value="0.96寸OLED" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="343" y="86.75" width="82" height="37.5" as="geometry" />
+          <mxGeometry x="230" y="20" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-5" value="&lt;div&gt;喇叭&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="343" y="129.25" width="82" height="37.5" as="geometry" />
+          <mxGeometry x="110" y="91.75" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-6" value="定位核心板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="343" y="170.75" width="82" height="37.5" as="geometry" />
+          <mxGeometry x="343" y="91.75" width="82" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
