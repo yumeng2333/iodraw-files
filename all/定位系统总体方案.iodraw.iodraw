@@ -71,27 +71,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-2" value="&lt;div&gt;ESP32C3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="188" y="91.75" width="82" height="37.5" as="geometry" />
+          <mxGeometry x="219" y="92.5" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMAOJrLryyl2KWBEoHM8-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="229" y="130" as="targetPoint" />
+            <mxPoint x="260" y="130.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-3" value="六轴IMU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="188" y="160" width="82" height="37.5" as="geometry" />
+          <mxGeometry x="219" y="160.75" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-4" value="0.96寸OLED" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="188" y="20" width="82" height="37.5" as="geometry" />
+          <mxGeometry x="219" y="20.75" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-5" value="&lt;div&gt;喇叭&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="59" y="91.75" width="82" height="37.5" as="geometry" />
+          <mxGeometry x="94" y="92.5" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="PMAOJrLryyl2KWBEoHM8-6" target="PMAOJrLryyl2KWBEoHM8-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-6" value="定位核心板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="91.75" width="82" height="37.5" as="geometry" />
+          <mxGeometry x="356" y="92.5" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-18" value="充放电管理板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="90.75" width="82" height="37.5" as="geometry" />
@@ -100,16 +100,16 @@
           <mxGeometry x="624" y="90.75" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-24" value="&lt;div&gt;IIC&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="217" y="60.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="248" y="61.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-27" value="PWM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="137" y="83" width="60" height="30" as="geometry" />
+          <mxGeometry x="168" y="83.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-30" value="&lt;div&gt;IIC&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="220" y="134.25" width="49" height="19.25" as="geometry" />
+          <mxGeometry x="251" y="135" width="49" height="19.25" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-32" value="UART" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="267" y="76.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="298" y="77.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
