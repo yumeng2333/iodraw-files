@@ -79,7 +79,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-3" value="六轴IMU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="219" y="160.75" width="82" height="37.5" as="geometry" />
+          <mxGeometry x="219" y="157.75" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-4" value="0.96寸OLED" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="219" y="20.75" width="82" height="37.5" as="geometry" />
@@ -94,7 +94,15 @@
           <mxGeometry x="356" y="92.5" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-18" value="充放电管理板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="90.75" width="82" height="37.5" as="geometry" />
+          <mxGeometry x="478" y="90.75" width="82" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PMAOJrLryyl2KWBEoHM8-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMAOJrLryyl2KWBEoHM8-19" target="PMAOJrLryyl2KWBEoHM8-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PMAOJrLryyl2KWBEoHM8-45" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PMAOJrLryyl2KWBEoHM8-44">
+          <mxGeometry x="0.1767" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-19" value="Type-C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="624" y="90.75" width="82" height="37.5" as="geometry" />
