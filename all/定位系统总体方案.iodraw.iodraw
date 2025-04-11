@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PMAOJrLryyl2KWBEoHM8-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="16" width="350" height="184" as="geometry" />
+        </mxCell>
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="1" source="LBHFtbLsPjsqxjLfZkVa-13" target="LBHFtbLsPjsqxjLfZkVa-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -99,9 +102,9 @@
         <mxCell id="PMAOJrLryyl2KWBEoHM8-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PMAOJrLryyl2KWBEoHM8-19" target="PMAOJrLryyl2KWBEoHM8-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PMAOJrLryyl2KWBEoHM8-45" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PMAOJrLryyl2KWBEoHM8-44">
+        <mxCell id="PMAOJrLryyl2KWBEoHM8-45" value="&lt;div&gt;5V2A&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PMAOJrLryyl2KWBEoHM8-44">
           <mxGeometry x="0.1767" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="7" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-19" value="Type-C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -116,8 +119,11 @@
         <mxCell id="PMAOJrLryyl2KWBEoHM8-30" value="&lt;div&gt;IIC&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="251" y="135" width="49" height="19.25" as="geometry" />
         </mxCell>
-        <mxCell id="PMAOJrLryyl2KWBEoHM8-32" value="UART" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="PMAOJrLryyl2KWBEoHM8-47" value="UART" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="298" y="77.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PMAOJrLryyl2KWBEoHM8-48" value="硬件流程图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="378" y="170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
