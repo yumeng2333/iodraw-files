@@ -10,42 +10,46 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-2" value="充放电管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="440" y="75" width="120" height="60" as="geometry" />
+          <mxGeometry x="474" y="86.25" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="LBHFtbLsPjsqxjLfZkVa-11" target="LBHFtbLsPjsqxjLfZkVa-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-11" value="Type C接口" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="610" y="75" width="120" height="60" as="geometry" />
+          <mxGeometry x="615" y="85" width="70" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="1" source="LBHFtbLsPjsqxjLfZkVa-13" target="LBHFtbLsPjsqxjLfZkVa-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-13" value="MQTT服务器" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="158" y="269" width="120" height="60" as="geometry" />
+          <mxGeometry x="158" y="268" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-15" value="Web端" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="350" y="269" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="268" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FIbKWlRppbG2iatWykEL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LBHFtbLsPjsqxjLfZkVa-17" edge="1" target="FIbKWlRppbG2iatWykEL-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550" y="401" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="340" />
+              <mxPoint x="470" y="340" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-17" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="580" y="256" width="120" height="60" as="geometry" />
+          <mxGeometry x="547" y="268" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FIbKWlRppbG2iatWykEL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LBHFtbLsPjsqxjLfZkVa-21" target="FIbKWlRppbG2iatWykEL-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-21" value="用户预约" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="580" y="371" width="120" height="60" as="geometry" />
+          <mxGeometry x="547" y="371" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-23" value="&lt;div&gt;MQTT协议&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="283" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-25" value="5V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="555" y="81" width="60" height="30" as="geometry" />
+          <mxGeometry x="1270" y="341" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIbKWlRppbG2iatWykEL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FIbKWlRppbG2iatWykEL-1" target="LBHFtbLsPjsqxjLfZkVa-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
