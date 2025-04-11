@@ -4,11 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="1" source="LBHFtbLsPjsqxjLfZkVa-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="105" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-2" value="充放电管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="474" y="86.25" width="90" height="35" as="geometry" />
         </mxCell>
@@ -76,10 +71,28 @@
           <mxGeometry x="337" y="340" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-2" value="&lt;div&gt;ESP32C3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="198" y="62.5" width="82" height="37.5" as="geometry" />
+          <mxGeometry x="220" y="21.5" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-3" value="六轴IMU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="198" y="110" width="82" height="37.5" as="geometry" />
+          <mxGeometry x="220" y="65" width="82" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PMAOJrLryyl2KWBEoHM8-4" value="0.96寸OLED" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="109" width="82" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PMAOJrLryyl2KWBEoHM8-5" value="&lt;div&gt;喇叭&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="152.5" width="82" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PMAOJrLryyl2KWBEoHM8-6" value="定位核心板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="21.5" width="82" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PMAOJrLryyl2KWBEoHM8-7" value="六轴IMU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="65" width="82" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PMAOJrLryyl2KWBEoHM8-8" value="0.96寸OLED" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="109" width="82" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PMAOJrLryyl2KWBEoHM8-9" value="&lt;div&gt;喇叭&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="152.5" width="82" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
