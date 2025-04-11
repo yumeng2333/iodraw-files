@@ -75,6 +75,12 @@
         <mxCell id="FIbKWlRppbG2iatWykEL-12" value="HTTPS协议" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="337" y="340" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PMAOJrLryyl2KWBEoHM8-2" value="&lt;div&gt;ESP32C3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="198" y="62.5" width="82" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PMAOJrLryyl2KWBEoHM8-3" value="六轴IMU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="198" y="110" width="82" height="37.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
