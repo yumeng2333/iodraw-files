@@ -1,89 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="24.7.17">
-  <diagram name="第 1 页" id="rqDds7BtGwm62sSVohtm">
-    <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="第 1 页" id="KpiEylPot-x1HSpB2uQG">
+    <mxGraphModel dx="10500" dy="5660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="1" source="LBHFtbLsPjsqxjLfZkVa-1" target="LBHFtbLsPjsqxjLfZkVa-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-1" value="双模定位器" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="100" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="1" source="LBHFtbLsPjsqxjLfZkVa-2" target="LBHFtbLsPjsqxjLfZkVa-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-2" value="充放电管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="440" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="1" source="LBHFtbLsPjsqxjLfZkVa-4" target="LBHFtbLsPjsqxjLfZkVa-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-4" value="电池" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="270" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="LBHFtbLsPjsqxjLfZkVa-11" target="LBHFtbLsPjsqxjLfZkVa-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-11" value="Type C接口" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="610" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="1" source="LBHFtbLsPjsqxjLfZkVa-13" target="LBHFtbLsPjsqxjLfZkVa-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-13" value="MQTT服务器" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="100" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-15" value="Web端" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="350" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FIbKWlRppbG2iatWykEL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LBHFtbLsPjsqxjLfZkVa-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-17" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="610" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FIbKWlRppbG2iatWykEL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LBHFtbLsPjsqxjLfZkVa-21" target="FIbKWlRppbG2iatWykEL-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-21" value="用户预约" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="610" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-23" value="&lt;div&gt;MQTT协议&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="259" y="209" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-25" value="5V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="555" y="116" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIbKWlRppbG2iatWykEL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FIbKWlRppbG2iatWykEL-1" target="LBHFtbLsPjsqxjLfZkVa-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FIbKWlRppbG2iatWykEL-1" value="云服务器" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="350" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FIbKWlRppbG2iatWykEL-6" value="HTTPS协议" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="470" y="330" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIbKWlRppbG2iatWykEL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="219" y="360" as="sourcePoint" />
-            <mxPoint x="349" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FIbKWlRppbG2iatWykEL-7" value="后台管理系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FIbKWlRppbG2iatWykEL-9" value="SSH协议" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="251" y="330" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIbKWlRppbG2iatWykEL-11" value="&lt;div&gt;MQTT协议&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="97" y="176" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FIbKWlRppbG2iatWykEL-12" value="HTTPS协议" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="341" y="300" width="80" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
