@@ -5,22 +5,25 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LxxG96I_sbq484yvlRMo-1" value="&lt;div&gt;4G传输&lt;/div&gt;&lt;div&gt;GNSS定位&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="230" width="110" height="50" as="geometry" />
+          <mxGeometry x="230" y="230" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LxxG96I_sbq484yvlRMo-4" value="&lt;div&gt;数据处理&lt;/div&gt;&lt;div&gt;传感器控制&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="230" width="110" height="50" as="geometry" />
+          <mxGeometry x="370" y="230" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LxxG96I_sbq484yvlRMo-5" value="车辆姿态检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="300" width="110" height="50" as="geometry" />
+          <mxGeometry x="300" y="280" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LxxG96I_sbq484yvlRMo-6" value="CT511NB" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LxxG96I_sbq484yvlRMo-7" value="ESP32C3" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="385" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LxxG96I_sbq484yvlRMo-8" value="MPU6050" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="350" width="60" height="30" as="geometry" />
+          <mxGeometry x="315" y="320" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LxxG96I_sbq484yvlRMo-9" value="MPU6050" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="330" width="65" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
