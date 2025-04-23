@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LxxG96I_sbq484yvlRMo-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LxxG96I_sbq484yvlRMo-1" value="&lt;div&gt;4G传输&lt;/div&gt;&lt;div&gt;GNSS定位&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
