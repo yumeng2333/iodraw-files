@@ -10,18 +10,6 @@
         <mxCell id="PMAOJrLryyl2KWBEoHM8-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="120" y="40" width="350" height="184" as="geometry" />
         </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="1" source="LBHFtbLsPjsqxjLfZkVa-13" target="LBHFtbLsPjsqxjLfZkVa-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-13" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;imageWidth=20;" parent="1" vertex="1">
-          <mxGeometry x="134" y="260" width="86" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-15" value="网页端" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;imageWidth=20;" parent="1" vertex="1">
-          <mxGeometry x="249" y="255" width="96" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-17" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;imageWidth=20;" parent="1" vertex="1">
-          <mxGeometry x="308" y="340" width="93" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PMAOJrLryyl2KWBEoHM8-2" target="PMAOJrLryyl2KWBEoHM8-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -63,11 +51,26 @@
         <mxCell id="PMAOJrLryyl2KWBEoHM8-59" value="软件流程图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="402" y="410" width="68" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dIj7wM1ARoFDnaoF5yOE-1" value="MQTT服务器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dIj7wM1ARoFDnaoF5yOE-1" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="386" y="48" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="dIj7wM1ARoFDnaoF5yOE-4" value="4G" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="387" y="87.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="58vsBrq8J61_a0oo1peL-1" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="249" y="250" width="82" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="58vsBrq8J61_a0oo1peL-2" value="&lt;div&gt;网页端&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="249" y="300" width="82" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="58vsBrq8J61_a0oo1peL-4" value="车辆姿态模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="360" width="82" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="58vsBrq8J61_a0oo1peL-5" value="车辆姿态模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="249" y="360" width="82" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="58vsBrq8J61_a0oo1peL-6" value="车辆姿态模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="211.75" width="82" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
