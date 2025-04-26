@@ -122,8 +122,17 @@
         <mxCell id="dIj7wM1ARoFDnaoF5yOE-4" value="4G" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="387" y="87.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7NQsf7AiZNYWwN1Ju3x1-16" value="&lt;div&gt;喇叭&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="144" y="136.5" width="82" height="37.5" as="geometry" />
+        <mxCell id="7NQsf7AiZNYWwN1Ju3x1-16" value="&lt;div&gt;喇叭&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="468" y="547" width="82" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7NQsf7AiZNYWwN1Ju3x1-17" value="屏幕" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="468" y="594" width="82" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7NQsf7AiZNYWwN1Ju3x1-19" value="三档按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="138" y="547" width="82" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7NQsf7AiZNYWwN1Ju3x1-20" value="主控模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302" y="547" width="82" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
