@@ -122,14 +122,29 @@
         <mxCell id="dIj7wM1ARoFDnaoF5yOE-4" value="4G" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="387" y="87.5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7NQsf7AiZNYWwN1Ju3x1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7NQsf7AiZNYWwN1Ju3x1-6" target="7NQsf7AiZNYWwN1Ju3x1-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7NQsf7AiZNYWwN1Ju3x1-6" value="定位/4G模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="124" y="500" width="82" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7NQsf7AiZNYWwN1Ju3x1-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7NQsf7AiZNYWwN1Ju3x1-7" target="7NQsf7AiZNYWwN1Ju3x1-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7NQsf7AiZNYWwN1Ju3x1-7" value="车辆姿态模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="124" y="566" width="82" height="37.5" as="geometry" />
         </mxCell>
+        <mxCell id="7NQsf7AiZNYWwN1Ju3x1-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7NQsf7AiZNYWwN1Ju3x1-8" target="7NQsf7AiZNYWwN1Ju3x1-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7NQsf7AiZNYWwN1Ju3x1-8" value="ESP32单片机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="254" y="490" width="82" height="37.5" as="geometry" />
+          <mxGeometry x="249" y="537.5" width="82" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7NQsf7AiZNYWwN1Ju3x1-11" value="OLED屏幕" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="373" y="500" width="82" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7NQsf7AiZNYWwN1Ju3x1-14" value="&lt;div&gt;喇叭&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="376" y="566" width="82" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
