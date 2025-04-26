@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="24.7.17">
   <diagram name="第 1 页" id="rqDds7BtGwm62sSVohtm">
-    <mxGraphModel dx="500" dy="270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-13" value="MQTT服务器" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;imageWidth=20;" parent="1" vertex="1">
           <mxGeometry x="134" y="250" width="96" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-15" value="Web端" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;imageWidth=20;" parent="1" vertex="1">
+        <mxCell id="LBHFtbLsPjsqxjLfZkVa-15" value="网页端" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;imageWidth=20;" parent="1" vertex="1">
           <mxGeometry x="305" y="250" width="96" height="48" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LBHFtbLsPjsqxjLfZkVa-17" target="FIbKWlRppbG2iatWykEL-1" edge="1">
