@@ -5,9 +5,9 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PMAOJrLryyl2KWBEoHM8-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="119" y="224" width="351" height="186" as="geometry" />
+          <mxGeometry x="120" y="224" width="350" height="186" as="geometry" />
         </mxCell>
-        <mxCell id="PMAOJrLryyl2KWBEoHM8-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
+        <mxCell id="PMAOJrLryyl2KWBEoHM8-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="40" width="350" height="184" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PMAOJrLryyl2KWBEoHM8-2" target="PMAOJrLryyl2KWBEoHM8-4" edge="1">
@@ -28,13 +28,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-3" value="车辆姿态模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="249" y="181.75" width="82" height="37.5" as="geometry" />
+          <mxGeometry x="249" y="180" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-4" value="OLED屏幕" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="249" y="44.75" width="82" height="37.5" as="geometry" />
+          <mxGeometry x="249" y="50" width="82" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="PMAOJrLryyl2KWBEoHM8-5" value="&lt;div&gt;喇叭&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="124" y="116.5" width="82" height="37.5" as="geometry" />
+        <mxCell id="PMAOJrLryyl2KWBEoHM8-5" value="音频模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="116.5" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="PMAOJrLryyl2KWBEoHM8-6" target="PMAOJrLryyl2KWBEoHM8-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -43,19 +43,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-6" value="定位/4G模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="386" y="116.5" width="82" height="37.5" as="geometry" />
+          <mxGeometry x="376" y="116.5" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-53" value="硬件流程图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="400" y="194" width="68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-59" value="软件流程图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="402" y="365" width="68" height="30" as="geometry" />
+          <mxGeometry x="402" y="380" width="68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dIj7wM1ARoFDnaoF5yOE-1" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="386" y="48" width="82" height="37.5" as="geometry" />
+          <mxGeometry x="376" y="50" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="dIj7wM1ARoFDnaoF5yOE-4" value="4G" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="387" y="87.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="373" y="87.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="58vsBrq8J61_a0oo1peL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="58vsBrq8J61_a0oo1peL-1" target="58vsBrq8J61_a0oo1peL-2">
           <mxGeometry relative="1" as="geometry" />
