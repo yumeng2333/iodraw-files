@@ -57,20 +57,26 @@
         <mxCell id="dIj7wM1ARoFDnaoF5yOE-4" value="4G" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="387" y="87.5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="58vsBrq8J61_a0oo1peL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="58vsBrq8J61_a0oo1peL-1" target="58vsBrq8J61_a0oo1peL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="58vsBrq8J61_a0oo1peL-1" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="249" y="250" width="82" height="37.5" as="geometry" />
+          <mxGeometry x="249" y="239" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="58vsBrq8J61_a0oo1peL-2" value="&lt;div&gt;网页端&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="249" y="300" width="82" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="58vsBrq8J61_a0oo1peL-4" value="车辆姿态模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="58vsBrq8J61_a0oo1peL-4" value="高德地图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="360" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="58vsBrq8J61_a0oo1peL-5" value="车辆姿态模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="249" y="360" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="58vsBrq8J61_a0oo1peL-6" value="车辆姿态模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="279" y="211.75" width="82" height="37.5" as="geometry" />
+          <mxGeometry x="350" y="360" width="82" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="58vsBrq8J61_a0oo1peL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.452;entryY=0.064;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="58vsBrq8J61_a0oo1peL-2" target="58vsBrq8J61_a0oo1peL-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
