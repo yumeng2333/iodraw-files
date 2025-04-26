@@ -134,7 +134,10 @@
         <mxCell id="7NQsf7AiZNYWwN1Ju3x1-7" value="车辆姿态模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="124" y="566" width="82" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="7NQsf7AiZNYWwN1Ju3x1-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7NQsf7AiZNYWwN1Ju3x1-8" target="7NQsf7AiZNYWwN1Ju3x1-14">
+        <mxCell id="7NQsf7AiZNYWwN1Ju3x1-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7NQsf7AiZNYWwN1Ju3x1-8" target="7NQsf7AiZNYWwN1Ju3x1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7NQsf7AiZNYWwN1Ju3x1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7NQsf7AiZNYWwN1Ju3x1-8" target="7NQsf7AiZNYWwN1Ju3x1-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7NQsf7AiZNYWwN1Ju3x1-8" value="ESP32单片机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -144,7 +147,7 @@
           <mxGeometry x="373" y="500" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="7NQsf7AiZNYWwN1Ju3x1-14" value="&lt;div&gt;喇叭&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="376" y="566" width="82" height="37.5" as="geometry" />
+          <mxGeometry x="365" y="566" width="82" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
