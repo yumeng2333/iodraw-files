@@ -22,38 +22,8 @@
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-15" value="网页端" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;imageWidth=20;" parent="1" vertex="1">
           <mxGeometry x="305" y="250" width="96" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="PMAOJrLryyl2KWBEoHM8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LBHFtbLsPjsqxjLfZkVa-17" target="FIbKWlRppbG2iatWykEL-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="501" y="320" />
-              <mxPoint x="425" y="320" />
-              <mxPoint x="425" y="350" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LBHFtbLsPjsqxjLfZkVa-17" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;imageWidth=20;" parent="1" vertex="1">
           <mxGeometry x="455" y="250" width="93" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="FIbKWlRppbG2iatWykEL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LBHFtbLsPjsqxjLfZkVa-21" target="FIbKWlRppbG2iatWykEL-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LBHFtbLsPjsqxjLfZkVa-21" value="用户预约" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;imageWidth=20;" parent="1" vertex="1">
-          <mxGeometry x="454" y="350" width="102" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="FIbKWlRppbG2iatWykEL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FIbKWlRppbG2iatWykEL-1" target="LBHFtbLsPjsqxjLfZkVa-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FIbKWlRppbG2iatWykEL-1" value="云服务器" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;imageWidth=20;" parent="1" vertex="1">
-          <mxGeometry x="302" y="350" width="102" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="FIbKWlRppbG2iatWykEL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="174" y="371" as="sourcePoint" />
-            <mxPoint x="304" y="371" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FIbKWlRppbG2iatWykEL-7" value="后台管理系统" style="rounded=0;whiteSpace=wrap;html=1;imageWidth=20;" parent="1" vertex="1">
-          <mxGeometry x="128" y="350" width="102" height="51" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PMAOJrLryyl2KWBEoHM8-2" target="PMAOJrLryyl2KWBEoHM8-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -64,7 +34,7 @@
         <mxCell id="PMAOJrLryyl2KWBEoHM8-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PMAOJrLryyl2KWBEoHM8-2" target="PMAOJrLryyl2KWBEoHM8-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PMAOJrLryyl2KWBEoHM8-2" value="ESP32单片机" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PMAOJrLryyl2KWBEoHM8-2" value="单片机" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="249" y="116.5" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PMAOJrLryyl2KWBEoHM8-3" edge="1">
