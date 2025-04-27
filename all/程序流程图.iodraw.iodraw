@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="24.7.17">
   <diagram name="第 1 页" id="eO0aFJD7GYIFTLa0EcoT">
-    <mxGraphModel dx="500" dy="270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,8 +22,14 @@
         <mxCell id="xAtIaDtcfMw7c9sptVoZ-3" value="车辆姿态界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="489" y="238.5" width="100" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="B6qPoNYi0CveiurF10Ag-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xAtIaDtcfMw7c9sptVoZ-4" target="B6qPoNYi0CveiurF10Ag-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xAtIaDtcfMw7c9sptVoZ-4" value="参数设计界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="489" y="328.5" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="B6qPoNYi0CveiurF10Ag-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xAtIaDtcfMw7c9sptVoZ-5" target="B6qPoNYi0CveiurF10Ag-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xAtIaDtcfMw7c9sptVoZ-5" value="车辆定位界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="489" y="420.5" width="100" height="35" as="geometry" />
@@ -85,6 +91,9 @@
             <mxPoint x="-4" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="B6qPoNYi0CveiurF10Ag-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B6qPoNYi0CveiurF10Ag-9" target="B6qPoNYi0CveiurF10Ag-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B6qPoNYi0CveiurF10Ag-9" value="按键值是否为3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="408" width="100" height="60" as="geometry" />
         </mxCell>
@@ -97,8 +106,14 @@
         <mxCell id="B6qPoNYi0CveiurF10Ag-24" value="监控车辆姿态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="238.5" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="B6qPoNYi0CveiurF10Ag-26" value="参数设计界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="499" y="338.5" width="100" height="35" as="geometry" />
+        <mxCell id="B6qPoNYi0CveiurF10Ag-26" value="设置各个模块参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="328.5" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="B6qPoNYi0CveiurF10Ag-28" value="定位车辆位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="420.5" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="B6qPoNYi0CveiurF10Ag-30" value="主循环" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="490" width="100" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
