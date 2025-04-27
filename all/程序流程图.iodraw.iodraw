@@ -8,30 +8,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xAtIaDtcfMw7c9sptVoZ-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" width="90" height="40" as="geometry" />
+          <mxGeometry x="340" width="88" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xAtIaDtcfMw7c9sptVoZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xAtIaDtcfMw7c9sptVoZ-2" target="xAtIaDtcfMw7c9sptVoZ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xAtIaDtcfMw7c9sptVoZ-2" value="所有模块初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="60" width="90" height="40" as="geometry" />
+          <mxGeometry x="340" y="60" width="88" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xAtIaDtcfMw7c9sptVoZ-3" value="车辆姿态界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="190" width="90" height="40" as="geometry" />
+          <mxGeometry x="230" y="190" width="88" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xAtIaDtcfMw7c9sptVoZ-4" value="参数设计界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="190" width="90" height="40" as="geometry" />
+          <mxGeometry x="340" y="190" width="88" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xAtIaDtcfMw7c9sptVoZ-5" value="车辆定位界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="190" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="xAtIaDtcfMw7c9sptVoZ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xAtIaDtcfMw7c9sptVoZ-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="385" y="190" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="450" y="190" width="88" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xAtIaDtcfMw7c9sptVoZ-10" value="监听按键" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="120" width="90" height="40" as="geometry" />
+          <mxGeometry x="340" y="120" width="88" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
