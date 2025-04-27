@@ -10,28 +10,26 @@
         <mxCell id="xAtIaDtcfMw7c9sptVoZ-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xAtIaDtcfMw7c9sptVoZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xAtIaDtcfMw7c9sptVoZ-2" target="xAtIaDtcfMw7c9sptVoZ-3">
+        <mxCell id="xAtIaDtcfMw7c9sptVoZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xAtIaDtcfMw7c9sptVoZ-2" target="xAtIaDtcfMw7c9sptVoZ-10">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xAtIaDtcfMw7c9sptVoZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xAtIaDtcfMw7c9sptVoZ-2" target="xAtIaDtcfMw7c9sptVoZ-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xAtIaDtcfMw7c9sptVoZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xAtIaDtcfMw7c9sptVoZ-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="200" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="xAtIaDtcfMw7c9sptVoZ-2" value="所有模块初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xAtIaDtcfMw7c9sptVoZ-3" value="车辆姿态界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xAtIaDtcfMw7c9sptVoZ-4" value="参数设计界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xAtIaDtcfMw7c9sptVoZ-5" value="车辆定位界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xAtIaDtcfMw7c9sptVoZ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xAtIaDtcfMw7c9sptVoZ-10" target="xAtIaDtcfMw7c9sptVoZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xAtIaDtcfMw7c9sptVoZ-10" value="监听按键按下" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
