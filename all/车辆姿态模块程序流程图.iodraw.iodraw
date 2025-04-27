@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="24.7.17">
   <diagram name="第 1 页" id="nonqMe2pgRloHR2Bn3FR">
-    <mxGraphModel dx="500" dy="270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,8 +27,8 @@
         <mxCell id="BfQt_mur06DhZhO4URxU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BfQt_mur06DhZhO4URxU-9" target="BfQt_mur06DhZhO4URxU-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="580" y="275" />
-              <mxPoint x="580" y="665" />
+              <mxPoint x="670" y="275" />
+              <mxPoint x="670" y="665" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -90,8 +90,13 @@
         <mxCell id="BfQt_mur06DhZhO4URxU-22" value="继续循环" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="309.63" y="650" width="102.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BfQt_mur06DhZhO4URxU-23" value="横滚角是否超过40°" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="420" width="110.5" height="80" as="geometry" />
+        <mxCell id="BfQt_mur06DhZhO4URxU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BfQt_mur06DhZhO4URxU-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="521.8965517241379" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BfQt_mur06DhZhO4URxU-23" value="俯仰角是否超过40°" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="410" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
