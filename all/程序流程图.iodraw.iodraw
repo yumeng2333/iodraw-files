@@ -106,14 +106,27 @@
         <mxCell id="B6qPoNYi0CveiurF10Ag-24" value="监控车辆姿态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="238.5" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="B6qPoNYi0CveiurF10Ag-26" value="设置各个模块参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B6qPoNYi0CveiurF10Ag-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B6qPoNYi0CveiurF10Ag-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="739.9999999999998" y="346" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6qPoNYi0CveiurF10Ag-26" value="设置模块参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="328.5" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="B6qPoNYi0CveiurF10Ag-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B6qPoNYi0CveiurF10Ag-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="739.9999999999998" y="438" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="B6qPoNYi0CveiurF10Ag-28" value="定位车辆位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="420.5" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="B6qPoNYi0CveiurF10Ag-30" value="主循环" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="490" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="B6qPoNYi0CveiurF10Ag-37" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="290" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
