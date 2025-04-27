@@ -4,29 +4,54 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xAtIaDtcfMw7c9sptVoZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xAtIaDtcfMw7c9sptVoZ-1" target="xAtIaDtcfMw7c9sptVoZ-2">
+        <mxCell id="xAtIaDtcfMw7c9sptVoZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xAtIaDtcfMw7c9sptVoZ-1" target="xAtIaDtcfMw7c9sptVoZ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xAtIaDtcfMw7c9sptVoZ-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" width="88" height="40" as="geometry" />
+        <mxCell id="xAtIaDtcfMw7c9sptVoZ-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="xAtIaDtcfMw7c9sptVoZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xAtIaDtcfMw7c9sptVoZ-2" target="xAtIaDtcfMw7c9sptVoZ-10">
+        <mxCell id="xAtIaDtcfMw7c9sptVoZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xAtIaDtcfMw7c9sptVoZ-2" target="xAtIaDtcfMw7c9sptVoZ-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xAtIaDtcfMw7c9sptVoZ-2" value="所有模块初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="60" width="88" height="40" as="geometry" />
+        <mxCell id="xAtIaDtcfMw7c9sptVoZ-2" value="所有模块初始化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="60" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="xAtIaDtcfMw7c9sptVoZ-3" value="车辆姿态界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="190" width="88" height="40" as="geometry" />
+        <mxCell id="xAtIaDtcfMw7c9sptVoZ-3" value="车辆姿态界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="187.5" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="xAtIaDtcfMw7c9sptVoZ-4" value="参数设计界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="190" width="88" height="40" as="geometry" />
+        <mxCell id="xAtIaDtcfMw7c9sptVoZ-4" value="参数设计界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="35" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="xAtIaDtcfMw7c9sptVoZ-5" value="车辆定位界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="190" width="88" height="40" as="geometry" />
+        <mxCell id="xAtIaDtcfMw7c9sptVoZ-5" value="车辆定位界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="770" y="35" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="xAtIaDtcfMw7c9sptVoZ-10" value="监听按键" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="120" width="88" height="40" as="geometry" />
+        <mxCell id="B6qPoNYi0CveiurF10Ag-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xAtIaDtcfMw7c9sptVoZ-10" target="B6qPoNYi0CveiurF10Ag-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xAtIaDtcfMw7c9sptVoZ-10" value="监听按键" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="120" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="B6qPoNYi0CveiurF10Ag-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B6qPoNYi0CveiurF10Ag-1" target="xAtIaDtcfMw7c9sptVoZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6qPoNYi0CveiurF10Ag-5" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B6qPoNYi0CveiurF10Ag-3">
+          <mxGeometry x="-0.76" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6qPoNYi0CveiurF10Ag-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B6qPoNYi0CveiurF10Ag-1" target="B6qPoNYi0CveiurF10Ag-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6qPoNYi0CveiurF10Ag-7" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B6qPoNYi0CveiurF10Ag-6">
+          <mxGeometry x="-0.1577" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6qPoNYi0CveiurF10Ag-1" value="按键值为1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="180" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B6qPoNYi0CveiurF10Ag-4" value="按键值为1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
