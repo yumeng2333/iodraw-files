@@ -19,8 +19,10 @@
             <mxPoint x="376" y="139.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PMAOJrLryyl2KWBEoHM8-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PMAOJrLryyl2KWBEoHM8-2" target="PMAOJrLryyl2KWBEoHM8-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PMAOJrLryyl2KWBEoHM8-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PMAOJrLryyl2KWBEoHM8-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="212.00000000000023" y="135.2500000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-2" value="主控模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="249" y="116.5" width="82" height="37.5" as="geometry" />
@@ -41,9 +43,6 @@
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-4" value="人机交互模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="249" y="50" width="82" height="37.5" as="geometry" />
-        </mxCell>
-        <mxCell id="PMAOJrLryyl2KWBEoHM8-5" value="音频模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="116.5" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="PMAOJrLryyl2KWBEoHM8-6" target="PMAOJrLryyl2KWBEoHM8-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
