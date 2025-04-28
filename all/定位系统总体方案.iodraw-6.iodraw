@@ -1,22 +1,28 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="24.7.17">
   <diagram name="第 1 页" id="rqDds7BtGwm62sSVohtm">
-    <mxGraphModel dx="350" dy="189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PMAOJrLryyl2KWBEoHM8-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="40" width="350" height="184" as="geometry" />
         </mxCell>
-        <mxCell id="PMAOJrLryyl2KWBEoHM8-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PMAOJrLryyl2KWBEoHM8-2" target="PMAOJrLryyl2KWBEoHM8-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PMAOJrLryyl2KWBEoHM8-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="283" y="116.5" as="sourcePoint" />
+            <mxPoint x="283" y="87.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="PMAOJrLryyl2KWBEoHM8-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PMAOJrLryyl2KWBEoHM8-2" target="PMAOJrLryyl2KWBEoHM8-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PMAOJrLryyl2KWBEoHM8-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="331" y="139.25" as="sourcePoint" />
+            <mxPoint x="376" y="139.25" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PMAOJrLryyl2KWBEoHM8-2" target="PMAOJrLryyl2KWBEoHM8-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PMAOJrLryyl2KWBEoHM8-2" value="单片机" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PMAOJrLryyl2KWBEoHM8-2" value="主控模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="249" y="116.5" width="82" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PMAOJrLryyl2KWBEoHM8-3" edge="1">
@@ -26,6 +32,12 @@
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-3" value="车辆姿态模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="249" y="180" width="82" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6638zfeViY-imzMu8DZR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="87.5" as="sourcePoint" />
+            <mxPoint x="300" y="116.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-4" value="人机交互模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="249" y="50" width="82" height="37.5" as="geometry" />
