@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6638zfeViY-imzMu8DZR-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="224" width="240" height="184" as="geometry" />
+        </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="120" y="40" width="350" height="184" as="geometry" />
+          <mxGeometry x="230" y="40" width="240" height="184" as="geometry" />
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -17,11 +20,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="331" y="139.25" as="sourcePoint" />
             <mxPoint x="376" y="139.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PMAOJrLryyl2KWBEoHM8-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PMAOJrLryyl2KWBEoHM8-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="212.00000000000023" y="135.2500000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PMAOJrLryyl2KWBEoHM8-2" value="主控模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -86,9 +84,6 @@
         </mxCell>
         <mxCell id="58vsBrq8J61_a0oo1peL-5" value="高德地图" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="249" y="360" width="82" height="37.5" as="geometry" />
-        </mxCell>
-        <mxCell id="6638zfeViY-imzMu8DZR-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="224" width="350" height="184" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
